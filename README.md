@@ -21,12 +21,15 @@ Genetic Algorithm flow
 Program prints results of the algorithm and plots development of fitness.
 
 ![image](https://user-images.githubusercontent.com/55585889/121179815-cdcf4900-c868-11eb-8f41-dbc87df05a80.png)
+
 Printed result in terminal output
 
 ![image](https://user-images.githubusercontent.com/55585889/121180168-37e7ee00-c869-11eb-83c3-5e593cd86390.png)
+
 Best number of power plants
 
 ![image](https://user-images.githubusercontent.com/55585889/121180199-40402900-c869-11eb-9bd8-d10aef8bb951.png)
+
 Evolution of fitness in best combination of power plants
 
 Principle of algorithm works very well in this code. However, simplified model of the energy system coded in it, is not complex enough that it would require GA to be solved. Powerplants with smallest sum of emission and cost parameters proved to be most successful in evolution. For future development more parameters should be included, so that advantages of GA would step in.
